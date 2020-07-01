@@ -1,5 +1,10 @@
 module.exports = {
-  title: 'testtest',
+  locales: {
+    '/': {
+      lang: 'ja',
+      title: 'test test'
+    },
+  },
   themeConfig: {
     sidebar: [
       '/',
